@@ -1,6 +1,6 @@
-## Hi there 👋
+## Simphiwe Nhlapo
 
-### Hi there 👋, Simphiwe Nhlapo
+### Hi there 👋, 
 #### Software Developer | Data Analyst 
 ![Software Developer | Data Analyst ](https://media.licdn.com/dms/image/D4D16AQECmfx4GOVNKg/profile-displaybackgroundimage-shrink_350_1400/0/1703189348748?e=1727913600&v=beta&t=nc4aCFt6z2Ph0P_S7eoTmtA38U7_p8AiDcuLTDDOa2w)
 
