@@ -8,7 +8,7 @@ I'm Simphiwe From South Africa , and I am currently studying towards a Bachelors
 
 Skills:  REACT / JS / HTML / CSS   / JAVA / PYTHON / C#
 
-- 🔭 I’m currently working on An AI Model 
+- 🔭 I’m currently working on a Full Stack Web App and A mobile app 
 - 🌱 I’m currently learning Amazon Web Services 
 - 👯 I’m looking to collaborate on A e-commerce website 
 - 🤔 I’m looking for help with TypeScript 
